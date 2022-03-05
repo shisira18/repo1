@@ -1,3 +1,5 @@
 hello world!
 
 hey people!
+
+feature-c added something onto the file , say a pixel property.
