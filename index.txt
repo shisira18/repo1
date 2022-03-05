@@ -6,3 +6,4 @@ after merge.
 
 feature-c added something onto the file , say a pixel property.
 
+added something for github.
