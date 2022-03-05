@@ -3,3 +3,6 @@ hello world!
 hey people!
 
 after merge.
+
+feature-c added something onto the file , say a pixel property.
+
